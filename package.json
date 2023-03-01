@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agonsant/demo-express-configs.git"
+    "url": "git+https://github.com/Fleyvad/202301-w7ch2-abel-lorena-paco.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agonsant/demo-express-configs/issues"
+    "url": "https://https://github.com/Fleyvad/202301-w7ch2-abel-lorena-paco/issues"
   },
-  "homepage": "https://github.com/agonsant/demo-express-configs#readme",
+  "homepage": "https://github.com/Fleyvad/202301-w7ch2-abel-lorena-paco#readme",
   "devDependencies": {
     "@types/bunyan": "^1.8.8",
     "@types/debug": "^4.1.7",
